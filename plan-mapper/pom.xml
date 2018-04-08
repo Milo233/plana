@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>plan-parent</artifactId>
+        <groupId>com.milo</groupId>
+        <version>1.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>plan-mapper</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0.0</version>
+    <name>plan-mapper</name>
+
+
+    <dependencies>
+        <dependency>
+            <!--web 依赖service-->
+            <groupId>com.milo</groupId>
+            <artifactId>plan-pojo</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
+</project>
