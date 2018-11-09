@@ -16,7 +16,7 @@
 
     <dependencies>
         <dependency>
-            <!--service 依赖 mapper 人数啊-->
+            <!--service 依赖 mapper 21212人数啊-->
             <groupId>com.milo</groupId>
             <artifactId>plan-mapper</artifactId>
             <!--test idea commit1   212-->
