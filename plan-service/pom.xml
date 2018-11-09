@@ -19,6 +19,7 @@
             <!--service 依赖 mapper-->
             <groupId>com.milo</groupId>
             <artifactId>plan-mapper</artifactId>
+            <!--test idea commit-->
             <version>1.0.0</version>
         </dependency>
     </dependencies>
