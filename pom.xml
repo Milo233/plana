@@ -9,7 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0</version>
     
-    <!-- 配置聚合 一键编译打包 -->
+    <!-- 配置聚合 一键编译打包
+	test commit
+	-->
     <modules>
         <!-- 指定各个子工程的相对路径 -->
         <module>planweb</module>
